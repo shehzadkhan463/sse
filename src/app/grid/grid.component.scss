@@ -1,0 +1,9 @@
+.button-group {
+    display: flex;
+    flex-wrap: wrap;
+    button {
+        flex-grow: 1;
+        width: 50%;
+        // height: 100px;
+    }
+}
